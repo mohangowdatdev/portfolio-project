@@ -140,7 +140,7 @@ color: #f84532;
   color: #efebe2;
 }
 .fa-linkedin:hover, .fa-twitter:hover,.fa-dribbble:hover {
-    opacity: 0.8;
+    
     border: 3px solid white;
     padding:17px;
 }
@@ -149,7 +149,7 @@ color: #f84532;
   color: #f65a5a;
 }
 .fa-github:hover,.fa-telegram:hover  {
-  opacity: 0.8;
+  
     border: 3px solid #f84532;
     padding:17px;
 }
